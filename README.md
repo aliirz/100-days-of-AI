@@ -9,7 +9,7 @@ My 100 days of AI journey. Where I will be working on various AI projects and le
 ### Day 1: Is it Pizza?
 A Vision Angular App with GPT-4o that detects whether the uploaded image is a pizza 🍕 or not.
 
-![Is it Pizza]("May-14-2024 02-19-07.gif")
+![Is it Pizza]("Is-it-pizza.gif")
 
 
 
