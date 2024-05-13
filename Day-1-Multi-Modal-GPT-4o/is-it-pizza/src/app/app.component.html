@@ -1,0 +1,15 @@
+<div class="container">
+  <h1>🍕 Is it Pizza?</h1>
+  <form (ngSubmit)="onUpload()" class="upload-form">
+    <input type="file" (change)="onFileSelected($event)" />
+    <img [src]="imagePreview" class="image-preview" />
+    <button type="submit">Upload</button>
+  </form>
+
+
+
+  <div class="response">
+    <h2>Output:</h2>
+    <pre>{{ apiResponse.message }}</pre> 
+  </div>
+</div>
