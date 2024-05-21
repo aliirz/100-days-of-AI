@@ -12,3 +12,7 @@ A Vision Angular App with GPT-4o that detects whether the uploaded image is a pi
 ![Is it Pizza](Is-it-pizza.gif)
 
 
+### Day 2: Hacker News AI API
+An Express API that uses Google Gemini to Summarize a Hacker news item.
+
+![HN AI](HN-AI.gif)
