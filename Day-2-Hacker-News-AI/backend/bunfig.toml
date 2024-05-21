@@ -1,0 +1,5 @@
+[autoinstall]
+development = true
+
+[server]
+port = 3000
